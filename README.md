@@ -1,12 +1,2 @@
 # SPEED-OS
 Speed OS is a versatile Linux-based operating system developed by Hemant Sharma, designed to cater to various specialized domains. With multiple versions tailored for different purposes, Speed OS offers a range of features and optimizations to enhance specific areas of computing.
-
-Speed OS for Programming: This version of Speed OS is meticulously crafted for programmers and software developers. It includes a comprehensive suite of development tools, libraries, and frameworks, making it an ideal environment for coding, debugging, and testing applications. With streamlined workflows and efficient resource management, Speed OS for Programming boosts productivity and enables seamless collaboration among programmers.
-
-Speed OS for Graphics: Geared towards graphic designers, animators, and visual artists, Speed OS for Graphics provides a rich set of tools and software packages for creating stunning visuals. It offers powerful graphics editing software, color management systems, 3D modeling tools, and support for high-resolution displays. The optimized performance of Speed OS for Graphics ensures smooth rendering and real-time manipulation of complex graphics.
-
-Speed OS for Gaming: Targeting gaming enthusiasts and professional gamers, Speed OS for Gaming is designed to deliver an exceptional gaming experience. It comes preloaded with gaming-centric features, drivers, and optimizations to maximize performance and compatibility with a wide range of games. With advanced graphics rendering, low latency, and customizable settings, Speed OS for Gaming offers an immersive and smooth gaming environment.
-
-Speed OS for Cyber Forensics: Built specifically for digital forensic investigators and cybersecurity professionals, Speed OS for Cyber Forensics provides a secure and specialized platform for analyzing digital evidence and conducting investigations. It offers a comprehensive suite of forensic tools, data recovery utilities, network analysis software, and encryption capabilities. Speed OS for Cyber Forensics prioritizes data integrity, privacy, and robust security protocols to ensure reliable and accurate forensic analysis.
-
-Each version of Speed OS incorporates a user-friendly interface, efficient resource management, and a stable foundation provided by the Linux operating system. The commitment to performance optimization, specialized toolsets, and targeted feature sets make Speed OS a valuable choice for professionals in their respective fields.
